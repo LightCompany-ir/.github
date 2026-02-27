@@ -94,7 +94,7 @@ To become a trusted digital growth partner for businesses by delivering innovati
 <img src="https://img.shields.io/badge/Visit_Our-Linked_in-blue?style=for-the-badge">
 </a>
 <a href="https://wa.me/989116430304">
-<img src="https://img.shields.io/badge/Visit_Our-Linked_in-blue?style=for-the-badge&logo=whatsapp">
+<img src="https://img.shields.io/badge/whatsapp-Message-blue?style=for-the-badge&logo=whatsapp">
 </a>
 </p>
 
