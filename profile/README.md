@@ -94,6 +94,7 @@ To become a trusted digital growth partner for businesses by delivering innovati
 <a href="https://www.linkedin.com/company/light-company-ir">
 <img src="https://img.shields.io/badge/Visit_Our-Linked_in-blue?style=for-the-badge">
 </a>
+
 ---
 
 ## 💡 Philosophy
