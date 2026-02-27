@@ -89,9 +89,11 @@ To become a trusted digital growth partner for businesses by delivering innovati
 <a href="https://instagram.com/lightcompany.ir">
 <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-<a href="https://lightcompany.ir"><img src="https://img.shields.io/badge/Visit_Our-Web_Site-blue?style=for-the-badge"></a>
+<a href="https://lightcompany.ir"><img src="https://img.shields.io/badge/Visit_Our-Web_Site-green?style=for-the-badge"></a>
 </p>
-
+<a href="https://www.linkedin.com/company/light-company-ir">
+<img src="https://img.shields.io/badge/Visit_Our-Linked_in-blue?style=for-the-badge">
+</a>
 ---
 
 ## 💡 Philosophy
